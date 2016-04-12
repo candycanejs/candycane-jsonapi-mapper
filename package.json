@@ -1,6 +1,6 @@
 {
   "name": "candycane-jsonapi-mapper",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "An addon for adding jsonapi-mapper to candycane based apis",
   "main": "dist/decorator.js",
   "scripts": {
